@@ -1,0 +1,11 @@
+.single-tShirt-item{
+    border: 2px solid #de851faa;
+    padding: 10px;
+    border-radius: 8px;
+}
+.single-tShirt-item img{
+    width: 250px;
+    height: 250px;
+    padding: 5px;
+    border-radius: 8px;
+}
